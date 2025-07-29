@@ -1,3 +1,5 @@
+[Direct link to LICENSE.txt file](https://raw.githubusercontent.com/8-Magic/8-Magic-Public-License/main/LICENSE.txt).
+
 # 8-Magic Public License — Inspired by CC BY-NC-SA 4.0
 
 Copyright (c) 2025 The 8-Magic Team
