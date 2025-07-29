@@ -23,4 +23,4 @@ Permission is hereby granted to any person obtaining a copy of this software and
 
 This license is inspired by the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0), but adapted specifically for software use. Creative Commons does not recommend its licenses for software; this is a custom adaptation intended to reflect similar terms in a software-appropriate context.
 
-For the original CC BY-NC-SA 4.0 license, see: https://creativecommons.org/licenses/by-nc-sa/4.0/
+For the original CC BY-NC-SA 4.0 license, see: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
